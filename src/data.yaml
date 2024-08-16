@@ -215,7 +215,7 @@ jobs:
         lat: 48.1347179
         long: 11.5305658
     review: https://www.kununu.com/de/elli
-    rating: 3.3
+    rating: 3.4
   - name: right. based on science
     website: https://www.right-basedonscience.de/
     jobs: https://www.right-basedonscience.de/ueber-uns/#jobs
@@ -348,7 +348,7 @@ jobs:
         lat: 54.1721746
         long: 12.0766473
     review: https://www.kununu.com/de/drehpunkt2
-    rating: 4.5
+    rating: 4.4
   - name: meteocontrol
     website: https://www.meteocontrol.com
     jobs: https://www.meteocontrol.com/karriere/stellenangebote/
@@ -452,7 +452,7 @@ jobs:
         lat: 52.4897802
         long: 13.3761333
     review: https://www.kununu.com/de/lumenaza
-    rating: 4.2
+    rating: 3.9
   - name: Energiedienst
     website: https://www.energiedienst.de/
     jobs: https://www.energiedienst.de/karriere/offene-stellen/
@@ -504,7 +504,7 @@ jobs:
         lat: 48.4471088
         long: 9.0800657
     review: https://www.kununu.com/de/digsilent
-    rating: 4.0
+    rating: 4.2
   - name: smartblue AG
     website: http://www.smartblue.de
     jobs: https://www.smartblue.de/jobs/
@@ -530,7 +530,7 @@ jobs:
         lat: 51.3573118
         long: 12.3859104
     review: https://www.kununu.com/de/senec1
-    rating: 3.6
+    rating: 3.7
   - name: KACO new energy
     website: https://kaco-newenergy.com
     jobs: https://kaco-newenergy.com/de/karriere/stellenangebote/
@@ -595,7 +595,7 @@ jobs:
         lat: 53.562875
         long: 9.9300721
     review: https://www.kununu.com/de/dz-41
-    rating: 4.0
+    rating: 3.9
   - name: LichtBlick
     website: https://www.lichtblick.de
     jobs: https://www.lichtblick.de/karriere/jobs/
@@ -660,7 +660,7 @@ jobs:
         lat: 48.1364497
         long: 11.5536071
     review: https://www.kununu.com/de/eemobility
-    rating: 3.9
+    rating: 3.6
   - name: The Mobility House
     website: https://www.mobilityhouse.com
     jobs: https://www.mobilityhouse.com/de_de/karriere
@@ -725,7 +725,7 @@ jobs:
         lat: 48.1018223
         long: 11.5320468
     review: https://www.kununu.com/de/fleetster-next-generation-mobility-munich
-    rating: 3.2
+    rating: 3.6
   - name: Kumpan electric
     website: https://www.kumpan-electric.com/
     jobs: https://www.kumpan-electric.com/karriere/
@@ -751,7 +751,7 @@ jobs:
         lat: 48.9989599
         long: 8.4614533
     review: https://www.kununu.com/de/raumobil
-    rating: 4.2
+    rating: 4.5
   - name: Jobrad
     website: https://www.jobrad.org
     jobs: https://www.jobrad.org/ueber-uns/karriere.html
@@ -829,7 +829,7 @@ jobs:
         lat: 53.5429001
         long: 9.9997807
     review: https://www.kununu.com/de/wunder-mobility
-    rating: 4.3
+    rating: 4.4
   - name: nextbike
     website: https://www.nextbike.de
     jobs: https://www.nextbike.net/jobs/
@@ -894,7 +894,7 @@ jobs:
         lat: 50.9098132
         long: 8.0661254
     review: https://www.kununu.com/de/inversgmbh
-    rating: 4.2
+    rating: 4.1
   - name: Cambio Carsharing
     website: https://www.cambio-carsharing.de/
     jobs: https://www.cambio-carsharing.de/cms/carsharing/de/1/cms?cms_knschluessel=JOBS
@@ -1011,7 +1011,7 @@ jobs:
         lat: 52.498439
         long: 13.3796507
     review: https://www.kununu.com/de/wikimedia-deutschland-gesellschaft-zur-foerderung-freien-wissens-e-v
-    rating: 4.5
+    rating: 4.4
   - name: ShareTheMeal
     website: https://sharethemeal.org/de
     jobs: https://angel.co/company/sharethemeal-1/jobs
@@ -1227,7 +1227,7 @@ jobs:
         lat: 50.973424
         long: 11.539467
     review: https://www.kununu.com/de/ampeers-energy
-    rating: 4.4
+    rating: 4.3
   - name: EINHUNDERT Energie
     website: https://einhundert-energie.de/
     jobs: https://einhundert.de/karriere/
@@ -1321,7 +1321,7 @@ jobs:
         lat: 52.5078933
         long: 13.4656977
     review: https://www.kununu.com/de/enpal
-    rating: 3.9
+    rating: 3.8
   - name: GFK Solar
     website: https://gfk-solar.de/
     jobs: https://gfk-solar.de/jobangebote/
@@ -1331,8 +1331,8 @@ jobs:
     field: Renewable Energies
     geo:
       - country: Germany
-        lat: 52.5478220
-        long: 13.6357970
+        lat: 52.547822
+        long: 13.635797
     review:
     rating:
   - name: node.energy
@@ -1412,7 +1412,7 @@ jobs:
         lat: 48.138339
         long: 11.5649452
     review: https://www.kununu.com/de/octopus-energy-germany
-    rating: 4.4
+    rating: 4.1
   - name: myclimate
     website: https://www.myclimate.org
     jobs: https://www.myclimate.org/information/about-myclimate/jobs/
@@ -1852,7 +1852,7 @@ jobs:
         lat: 47.9798
         long: 7.83948
     review: https://www.kununu.com/de/enit-energy-it-systems2
-    rating: 4.6
+    rating: 4.7
   - name: ONOMOTION
     website: https://onomotion.com
     jobs: https://onomotion.com/karriere/
@@ -2467,7 +2467,7 @@ jobs:
         lat: 52.4827494
         long: 13.3553999
     review: https://www.kununu.com/de/oekotec-energiemanagement
-    rating: 4.1
+    rating: 4.2
   - name: Leasing for Good
     website: https://www.leasingforgood.com
     jobs: https://www.leasingforgood.com/jobs#anchor-jobs
@@ -2934,7 +2934,7 @@ jobs:
         lat: 52.4896223
         long: 13.423728
     review: https://www.kununu.com/de/solytic1
-    rating: 4.7
+    rating: 4.8
   - name: Munich Electrification
     website: https://www.munichelectrification.com
     jobs: https://www.munichelectrification.com/career
@@ -2947,7 +2947,7 @@ jobs:
         lat: 48.129586
         long: 11.532228
     review: https://www.kununu.com/de/munich-electrification
-    rating: 4.3
+    rating: 4.0
   - name: CarbonRe
     website: https://carbonre.com/
     jobs: https://carbonre.com/careers/
