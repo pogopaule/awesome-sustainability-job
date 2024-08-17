@@ -1,6 +1,9 @@
 { pkgs, ... }:
 
 {
+
+  devcontainer.enable = true;
+
   packages = [
     pkgs.chromedriver
     # pkgs.chromium
