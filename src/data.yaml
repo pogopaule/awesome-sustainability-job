@@ -2996,6 +2996,22 @@ jobs:
         long:
     review:
     rating:
+  - name: Minds and Co.
+    website: https://mindsandco.com/
+    jobs: https://mindsandco.com/about-us/#career
+    description: Intelligent engineering and tailored software solutions for industrial digitalisation
+    remote: false
+    speculative: true
+    field: Renewable Energies
+    geo:
+      - country: Denmark
+        lat: 56.17257144360258
+        long: 10.188077669226212
+      - country: Germany
+        lat: 53.60386496108478
+        long: 10.02646883530093
+    review:
+    rating:
 jobportals:
   - name: eejobs.de
     website: https://www.eejobs.de/
