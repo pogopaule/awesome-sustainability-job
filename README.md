@@ -157,6 +157,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | - | - | - | - | - | - |
 | [Orsted](https://orsted.com/) | [jobs](https://orsted.com/en/careers) | [4.3/5](https://www.glassdoor.com/Reviews/%C3%98rsted-Reviews-E1858272.htm) | We are a renewable energy company that takes tangible action to create a world that runs entirely on green energy. |  |  |
 | [Vestas](https://www.vestas.com/) | [jobs](https://careers.vestas.com/search/?q=Software&locationsearch=) | [3.8/5](https://www.glassdoor.com/Reviews/Vestas-Wind-Systems-Reviews-E26454.htm) | Wind turbines |  |  |
+| [Minds and Co.](https://mindsandco.com/) | [jobs](https://mindsandco.com/about-us/#career) |  | Intelligent engineering and tailored software solutions for industrial digitalisation | ✅ |  |
 
 
 
@@ -360,6 +361,7 @@ Not able to work on sustainability in a full time job? Check out this list of [o
 | [Opernikus](https://opernikus.de/) | [jobs](https://opernikus.de/jobs/) |  | IT-Projektpartner für die Digitalisierung der Energieversorgung |  |  |
 | [Sunvigo](https://www.sunvigo.de/) | [jobs](https://sunvigo.jobs.personio.de/) | [4.1/5](https://www.kununu.com/de/sunvigo2) | Operates PV on your roof | ✅ |  |
 | [Solytic](https://www.solytic.com/) | [jobs](https://solytic.jobs.personio.de/) | [4.8/5](https://www.kununu.com/de/solytic1) | Develops a hardware-independent monitoring solution for photovoltaic power plants |  |  |
+| [Minds and Co.](https://mindsandco.com/) | [jobs](https://mindsandco.com/about-us/#career) |  | Intelligent engineering and tailored software solutions for industrial digitalisation | ✅ |  |
 
 
 #### Sharing Economy
